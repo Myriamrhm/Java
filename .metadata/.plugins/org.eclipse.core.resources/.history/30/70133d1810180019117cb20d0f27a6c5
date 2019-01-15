@@ -1,0 +1,9 @@
+package model.model.questions;
+
+public class QuestionArtiste {
+
+	
+	public void questionArtiste() {
+		System.out.print("Quel est est l'artiste ou le groupe qui interprete ce morceau?");
+	}
+}

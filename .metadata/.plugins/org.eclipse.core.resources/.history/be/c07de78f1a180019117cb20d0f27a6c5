@@ -1,0 +1,10 @@
+package model.model.user;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Admin {
+	private String mail;
+	private String password;
+
+}

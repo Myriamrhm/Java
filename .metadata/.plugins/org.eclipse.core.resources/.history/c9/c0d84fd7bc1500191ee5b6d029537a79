@@ -1,0 +1,5 @@
+package simplonco.model.utilisateur;
+
+public interface UtilisateurRepository {
+
+}

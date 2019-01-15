@@ -1,0 +1,21 @@
+
+Culture JAVA:
+
+1) Le langage JAVA est un langage compatible avec tout les systèmes d'exploitation.
+En plus de cela on a pas besoin de connaître le binaire/bytecode contrairement à C++ c'est la JVM qui s'en occupe. 
+
+2) Pour compiler on utilise la commande « Java.class
+La génération d'une archive c'est lorsque l'on créer un fichier « jar » grâce à la commande « Javac.java ».
+
+3) La JVM est la machine virtuelle de Java. C'est là qu'il y'a la mémoire, « le heap et le stack ». La JVM c'est elle qui interprète le bytecode. 
+
+4) int age = 21; 
+String nom = ''John'';
+double c = 2.4;
+boolean a = true;
+
+5) 
+
+6) Un objet c'est dynamique contrairement à une classe. Un objet c'est une instance d'une classe.
+
+7) Dans une interface il n'y a que des méthodes. Dans une classe il y'a des attributs, des méthodes... 

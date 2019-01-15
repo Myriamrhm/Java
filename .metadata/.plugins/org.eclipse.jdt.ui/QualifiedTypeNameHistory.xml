@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Scanner"/>
+<fullyQualifiedTypeName name="java.lang.reflect.Array"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="java.sql.Date"/>
+<fullyQualifiedTypeName name="family.model.Enfant"/>
+<fullyQualifiedTypeName name="family.model.Adulte"/>
+<fullyQualifiedTypeName name="java.lang.Math"/>
+<fullyQualifiedTypeName name="product.Product"/>
+<fullyQualifiedTypeName name="co.simplon.shop.client.Client"/>
+<fullyQualifiedTypeName name="co.simplon.shop.shop.Shop"/>
+<fullyQualifiedTypeName name="co.simplon.shop.product.Product"/>
+<fullyQualifiedTypeName name="co.simplon.shop.model.order.IOrderRepository"/>
+<fullyQualifiedTypeName name="co.simplon.shop.model.shop.IShopRepository"/>
+<fullyQualifiedTypeName name="co.simplon.shop.model.product.IProductRepository"/>
+<fullyQualifiedTypeName name="co.simplon.shop.model.product.Product"/>
+<fullyQualifiedTypeName name="org.springframework.data.jpa.repository.JpaRepository"/>
+<fullyQualifiedTypeName name="javax.persistence.ManyToOne"/>
+<fullyQualifiedTypeName name="model.pays.IPaysRepository"/>
+<fullyQualifiedTypeName name="model.personne.IPersonneRepository"/>
+<fullyQualifiedTypeName name="model.pays.Pays"/>
+<fullyQualifiedTypeName name="model.personne.Personne"/>
+<fullyQualifiedTypeName name="javax.persistence.GeneratedValue"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotNull"/>
+<fullyQualifiedTypeName name="org.hibernate.mapping.List"/>
+<fullyQualifiedTypeName name="java.util.HashSet"/>
+<fullyQualifiedTypeName name="java.util.Set"/>
+<fullyQualifiedTypeName name="org.junit.Before"/>
+<fullyQualifiedTypeName name="org.junit.After"/>
+<fullyQualifiedTypeName name="simplonco.model.utilisateur.IUtilisateurRepository"/>
+<fullyQualifiedTypeName name="simplonco.model.role.IRoleRepository"/>
+<fullyQualifiedTypeName name="simplonco.model.utilisateur.Utilisateur"/>
+<fullyQualifiedTypeName name="javax.persistence.OneToMany"/>
+<fullyQualifiedTypeName name="javax.persistence.Id"/>
+<fullyQualifiedTypeName name="javax.persistence.Entity"/>
+<fullyQualifiedTypeName name="model.model.user.Admin"/>
+<fullyQualifiedTypeName name="org.springframework.beans.factory.annotation.Autowired"/>
+<fullyQualifiedTypeName name="model.model.user.IRepositoryAdmin"/>
+<fullyQualifiedTypeName name="javax.validation.constraints.NotEmpty"/>
+<fullyQualifiedTypeName name="model.model.user.IRepositoryJoueur"/>
+<fullyQualifiedTypeName name="model.model.user.Joueur"/>
+</qualifiedTypeNameHistroy>

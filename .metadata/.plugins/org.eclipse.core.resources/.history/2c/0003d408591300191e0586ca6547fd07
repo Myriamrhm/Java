@@ -1,0 +1,5 @@
+package model.pays;
+
+public interface IPaysRepository {
+
+}

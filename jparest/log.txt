@@ -1,0 +1,74 @@
+2019-01-11 18:51:21.058  INFO 79604 --- [main] simplonco.model.JparestApplicationTests  : Starting JparestApplicationTests on MacBook-Pro-de-Utilisateur.local with PID 79604 (started by utilisateur in /Users/utilisateur/eclipse-workspace/jparest)
+2019-01-11 18:51:21.060  INFO 79604 --- [main] simplonco.model.JparestApplicationTests  : No active profile set, falling back to default profiles: default
+2019-01-11 18:51:21.792  INFO 79604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-11 18:51:21.900  INFO 79604 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 96ms. Found 2 repository interfaces.
+2019-01-11 18:51:23.327  INFO 79604 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-01-11 18:51:25.384  INFO 79604 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-11 18:51:25.563  INFO 79604 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-01-11 18:51:25.655  INFO 79604 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.7.Final}
+2019-01-11 18:51:25.658  INFO 79604 --- [main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2019-01-11 18:51:25.881  INFO 79604 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-01-11 18:51:26.097  INFO 79604 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2019-01-11 18:51:28.342  INFO 79604 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-01-11 18:51:29.157  INFO 79604 --- [main] simplonco.model.JparestApplicationTests  : Started JparestApplicationTests in 23.633 seconds (JVM running for 102.555)
+2019-01-11 18:51:29.420  INFO 79604 --- [Thread-2] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-01-11 18:51:29.425  INFO 79604 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-01-11 18:51:29.453  INFO 79604 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-01-11 18:52:13.674  INFO 80077 --- [main] simplonco.model.JparestApplicationTests  : Starting JparestApplicationTests on MacBook-Pro-de-Utilisateur.local with PID 80077 (started by utilisateur in /Users/utilisateur/eclipse-workspace/jparest)
+2019-01-11 18:52:13.676  INFO 80077 --- [main] simplonco.model.JparestApplicationTests  : No active profile set, falling back to default profiles: default
+2019-01-11 18:52:14.307  INFO 80077 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-11 18:52:14.428  INFO 80077 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 110ms. Found 2 repository interfaces.
+2019-01-11 18:52:15.560  INFO 80077 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-01-11 18:52:17.532  INFO 80077 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-11 18:52:17.759  INFO 80077 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-01-11 18:52:17.865  INFO 80077 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.7.Final}
+2019-01-11 18:52:17.868  INFO 80077 --- [main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2019-01-11 18:52:18.059  INFO 80077 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-01-11 18:52:18.273  INFO 80077 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2019-01-11 18:52:19.437  INFO 80077 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-01-11 18:52:20.219  INFO 80077 --- [main] simplonco.model.JparestApplicationTests  : Started JparestApplicationTests in 21.981 seconds (JVM running for 100.591)
+2019-01-11 18:52:20.613  INFO 80077 --- [Thread-2] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-01-11 18:52:20.619  INFO 80077 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-01-11 18:52:20.656  INFO 80077 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-01-11 18:54:51.432  INFO 81528 --- [main] simplonco.model.JparestApplicationTests  : Starting JparestApplicationTests on MacBook-Pro-de-Utilisateur.local with PID 81528 (started by utilisateur in /Users/utilisateur/eclipse-workspace/jparest)
+2019-01-11 18:54:51.435  INFO 81528 --- [main] simplonco.model.JparestApplicationTests  : No active profile set, falling back to default profiles: default
+2019-01-11 18:54:52.177  INFO 81528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-11 18:54:52.372  INFO 81528 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 181ms. Found 2 repository interfaces.
+2019-01-11 18:54:53.718  INFO 81528 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-01-11 18:54:55.613  INFO 81528 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-11 18:54:55.796  INFO 81528 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-01-11 18:54:55.914  INFO 81528 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.7.Final}
+2019-01-11 18:54:55.927  INFO 81528 --- [main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2019-01-11 18:54:56.165  INFO 81528 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-01-11 18:54:56.375  INFO 81528 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2019-01-11 18:54:57.452  INFO 81528 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-01-11 18:54:58.289  INFO 81528 --- [main] simplonco.model.JparestApplicationTests  : Started JparestApplicationTests in 22.38 seconds (JVM running for 100.403)
+2019-01-11 18:54:58.515  INFO 81528 --- [main] o.h.h.i.QueryTranslatorFactoryInitiator  : HHH000397: Using ASTQueryTranslatorFactory
+2019-01-11 18:54:59.019  INFO 81528 --- [Thread-2] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-01-11 18:54:59.024  INFO 81528 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-01-11 18:54:59.032  INFO 81528 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-01-11 18:55:45.353  INFO 82092 --- [main] simplonco.model.JparestApplicationTests  : Starting JparestApplicationTests on MacBook-Pro-de-Utilisateur.local with PID 82092 (started by utilisateur in /Users/utilisateur/eclipse-workspace/jparest)
+2019-01-11 18:55:45.356  INFO 82092 --- [main] simplonco.model.JparestApplicationTests  : No active profile set, falling back to default profiles: default
+2019-01-11 18:55:45.961  INFO 82092 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Bootstrapping Spring Data repositories in DEFAULT mode.
+2019-01-11 18:55:46.059  INFO 82092 --- [main] .s.d.r.c.RepositoryConfigurationDelegate : Finished Spring Data repository scanning in 88ms. Found 2 repository interfaces.
+2019-01-11 18:55:47.081  INFO 82092 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-01-11 18:55:48.906  INFO 82092 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-11 18:55:49.051  INFO 82092 --- [main] o.hibernate.jpa.internal.util.LogHelper  : HHH000204: Processing PersistenceUnitInfo [
+	name: default
+	...]
+2019-01-11 18:55:49.147  INFO 82092 --- [main] org.hibernate.Version                    : HHH000412: Hibernate Core {5.3.7.Final}
+2019-01-11 18:55:49.149  INFO 82092 --- [main] org.hibernate.cfg.Environment            : HHH000206: hibernate.properties not found
+2019-01-11 18:55:49.324  INFO 82092 --- [main] o.hibernate.annotations.common.Version   : HCANN000001: Hibernate Commons Annotations {5.0.4.Final}
+2019-01-11 18:55:49.511  INFO 82092 --- [main] org.hibernate.dialect.Dialect            : HHH000400: Using dialect: org.hibernate.dialect.MySQL5InnoDBDialect
+2019-01-11 18:55:50.603  INFO 82092 --- [main] j.LocalContainerEntityManagerFactoryBean : Initialized JPA EntityManagerFactory for persistence unit 'default'
+2019-01-11 18:55:51.381  INFO 82092 --- [main] simplonco.model.JparestApplicationTests  : Started JparestApplicationTests in 21.497 seconds (JVM running for 99.948)
+2019-01-11 18:55:51.585  INFO 82092 --- [main] o.h.h.i.QueryTranslatorFactoryInitiator  : HHH000397: Using ASTQueryTranslatorFactory
+2019-01-11 18:55:51.910  INFO 82092 --- [Thread-2] j.LocalContainerEntityManagerFactoryBean : Closing JPA EntityManagerFactory for persistence unit 'default'
+2019-01-11 18:55:51.916  INFO 82092 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-01-11 18:55:51.928  INFO 82092 --- [Thread-2] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.

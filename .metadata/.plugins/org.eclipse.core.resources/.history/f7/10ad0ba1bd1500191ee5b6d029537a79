@@ -1,0 +1,21 @@
+package simplonco.model.role;
+
+import javax.persistence.Entity;
+
+@Entity
+public class Role {
+	private long id;
+	private String libelle;
+	
+	public long getId() {
+		return id;
+	}
+	public String getLibelle() {
+		return libelle;
+	}
+	public void setLibelle(String libelle) {
+		this.libelle = libelle;
+	}
+	
+
+}

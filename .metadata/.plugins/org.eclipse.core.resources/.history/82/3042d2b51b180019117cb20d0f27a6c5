@@ -1,0 +1,15 @@
+package model.model.user;
+
+import javax.persistence.Entity;
+import javax.validation.constraints.NotEmpty;
+
+@Entity
+public class Admin {
+	
+	@NotEmpty
+	private String mail;
+	
+	@NotEmpty
+	private String password;
+
+}

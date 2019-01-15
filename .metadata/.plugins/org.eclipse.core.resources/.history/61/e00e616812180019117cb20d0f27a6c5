@@ -1,0 +1,58 @@
+package model.model.user;
+
+public class Joueur {
+	
+	private long idJoueur;
+	public String pseudo;
+	private String mail;
+	private String password;
+	public int score;
+	
+	//Constructor
+	public Joueur(long idJoueur, String pseudo, String mail, String password, int score) {
+		super();
+		this.idJoueur = idJoueur;
+		this.pseudo = pseudo;
+		this.mail = mail;
+		this.password = password;
+		this.score = score;
+	}
+
+	public long getIdJoueur() {
+		return idJoueur;
+	}
+
+	public String getPseudo() {
+		return pseudo;
+	}
+
+	public void setPseudo(String pseudo) {
+		this.pseudo = pseudo;
+	}
+
+	public String getMail() {
+		return mail;
+	}
+
+	public void setMail(String mail) {
+		this.mail = mail;
+	}
+
+	public String getPassword() {
+		return password;
+	}
+
+	public void setPassword(String password) {
+		this.password = password;
+	}
+
+	public int getScore() {
+		return score;
+	}
+
+	public void setScore(int score) {
+		this.score = score;
+	}
+	
+
+}

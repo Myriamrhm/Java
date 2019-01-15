@@ -1,0 +1,27 @@
+package model.model.user;
+
+import javax.persistence.Entity;
+import javax.persistence.GeneratedValue;
+import javax.persistence.GenerationType;
+import javax.persistence.Id;
+import javax.validation.constraints.NotEmpty;
+
+@Entity
+public class Joueur {
+	
+	@Id
+	@GeneratedValue(strategy = GenerationType.IDENTITY)
+	private long idJoueur;
+	@NotEmpty
+	public String pseudo;
+	@NotEmpty
+	private String mail;
+	@NotEmpty
+	private String password;
+	public int score;
+	
+
+
+	
+
+}

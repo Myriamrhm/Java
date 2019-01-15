@@ -1,0 +1,33 @@
+package net.simplon.jpa;
+
+public class Pays {
+	
+	private long id;
+	private String nom;
+	
+	//GETTERS SETTERS
+	public long getId() {
+		return id;
+	}
+	public void setId(long id) {
+		this.id = id;
+	}
+	public String getNom() {
+		return nom;
+	}
+	public void setNom(String nom) {
+		this.nom = nom;
+	}
+	
+	//Contructeur public
+	public Pays(String nom) {
+		super();
+		this.nom = nom;
+	}
+	//Constructeur protected
+	protected Pays() {
+		super();
+	}
+	
+	
+}

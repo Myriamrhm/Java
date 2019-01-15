@@ -1,0 +1,5 @@
+package net.simplon.jpa;
+
+public class Pays {
+
+}

@@ -1,0 +1,46 @@
+package simplonco.model;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringRunner;
+
+import simplonco.model.role.IRoleRepository;
+import simplonco.model.utilisateur.IUtilisateurRepository;
+import simplonco.model.utilisateur.Utilisateur;
+
+@RunWith(SpringRunner.class)
+@SpringBootTest
+public class JparestApplicationTests {
+
+	
+	@Autowired
+	IUtilisateurRepository utilisateur;
+	
+	@Autowired
+	IRoleRepository role;
+	
+	@Test
+	public void contextLoads() {
+		Utilisateur myriam = new Utilisateur("login", "password", "email", true);
+		save.utilisateur("myriam";)
+	}
+	
+	@Before //Tout le temps importer la 2eme (JUnit)
+	public void resed() {
+		utilisateur.deleteAll();
+		role.deleteAll();
+	}
+	
+	@After //Tout le temps importer la 2eme (JUnit)
+	public void resed2() {
+		utilisateur.deleteAll();
+		role.deleteAll();
+		
+	}
+
+}
+

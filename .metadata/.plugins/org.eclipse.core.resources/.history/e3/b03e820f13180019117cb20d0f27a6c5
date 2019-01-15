@@ -1,0 +1,23 @@
+package model.model.user;
+
+public class Joueur {
+	
+	private long idJoueur;
+	public String pseudo;
+	private String mail;
+	private String password;
+	public int score;
+	
+	//Constructor
+	public Joueur(long idJoueur, String pseudo, String mail, String password, int score) {
+		super();
+		this.idJoueur = idJoueur;
+		this.pseudo = pseudo;
+		this.mail = mail;
+		this.password = password;
+		this.score = score;
+	}
+
+	
+
+}

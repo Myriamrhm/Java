@@ -1,0 +1,5 @@
+package simplonco.model.role;
+
+public class Role {
+
+}
